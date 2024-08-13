@@ -1,2 +1,2 @@
 # C code to python 
-## Author github/com/themusharraf
+## Author [@themusharraf](https://github.com/themusharraf)
